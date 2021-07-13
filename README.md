@@ -5,7 +5,7 @@ It is not reasonable to access a solution to some assessement prior to (re-)subm
 
 The essence of all work that you submit to the CS50 course **must be your own**. 
 
-# Credit
+# CS50's Credit
 In this exercise we needed to implement a command-line application using Python to validate a credit card number and tell if its flag is MASTERCARD, VISA, AMEX or an INVALID card using Luhn’s Algorithm.
 
 # How it works
